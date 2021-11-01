@@ -1,2 +1,2 @@
-# steller-security-mac-vpn-releases-
+# steller-security-mac-vpn-releases
 MacOS VPN releases
